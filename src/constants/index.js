@@ -51,7 +51,7 @@ const services = [
     icon: backend,
   },
   {
-    title: "Content Creator",
+    title: "React Developer",
     icon: creator,
   },
 ];
@@ -113,6 +113,21 @@ const technologies = [
 
 const experiences = [
   {
+    title: "Personal Projects (Frontend Web Development)",
+    company_name: "Self-employed",
+    icon: meta,
+    iconBg: "#E6DEDD",
+    date: "April 2024 - Present",
+    points: [
+      "Developed private websites for clients, gaining expertise in React, TailwindCSS, and Framer Motion.",
+      "Regularly refactored code to adhere to Clean Code principles and SOLID design patterns.",
+      "Applied UI/UX design principles to enhance user experience.",
+      "Gained initial professional experience in web development through client projects.",
+      "Collaborated with clients to gather requirements and provide tailored web solutions.",
+      "Maintained version control using Git and GitHub."
+    ],
+  },
+  {
     title: "Frontend Developer (Angular, JavaScript)",
     company_name: "Developer Academy",
     icon: meta,
@@ -123,21 +138,9 @@ const experiences = [
       "Created prototypes and mock-ups based on user requirements and implemented them into functional applications.",
       "Implemented responsive design and ensured cross-browser compatibility.",
       "Gained experience with version control and teamwork using Git and agile methodologies (SCRUM, Kanban).",
-      "Conducted unit and integration tests to ensure software quality.",
-    ],
-  },
-  {
-    title: "Personal Projects (Frontend Web Development)",
-    company_name: "Self-employed",
-    icon: meta,
-    iconBg: "#E6DEDD",
-    date: "April 2023 - Present",
-    points: [
-      "Developed a task management web app for multiple users using Angular and Firebase.",
-      "Built a chat messenger app, similar to Slack, to improve team communication.",
+      "Developed a task management web app for multiple users using Angular.",
       "Programmed a browser-based game using object-oriented programming in Vanilla JavaScript to deepen advanced coding concepts.",
-      "Regularly refactored code to adhere to Clean Code principles and SOLID design patterns.",
-      "Applied UI/UX design principles to enhance user experience.",
+      "Built a chat messenger app, similar to Slack, to improve team communication using Angular and Firebase.",
     ],
   },
 ];
@@ -145,10 +148,10 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "Murat helped us building our own shopify website. He is very professional and always available to help. We are very happy with the result.",
     name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
+    designation: "CEO",
+    company: "SMARTBANDZ",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {

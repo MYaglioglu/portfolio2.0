@@ -31,8 +31,9 @@ ServiceCard.propTypes = {
 
 const About = () => {
   return (
-    <>
-      <motion.div variants={textVariant()}>
+    <div className=''>
+      <motion.div
+       variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
@@ -48,13 +49,13 @@ const About = () => {
         I&apos;m looking forward to working with you.
       </motion.p>
 
-      <div className='mt-20 flex flex-wrap gap-10'>
+      <div className='mt-20 flex flex-wrap justify-center gap-10'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
       </div>
 
-    </>
+    </div>
   )
 }
 
