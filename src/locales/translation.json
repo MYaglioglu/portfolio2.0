@@ -1,0 +1,17 @@
+{
+    "en": {
+      "navbar": {
+        "home": "Home",
+        "about": "About",
+        "projects": "Projects",
+        "contact": "Contact"
+      },
+      "footer": {
+        "rights": "All rights reserved."
+      },
+      "hero": {
+        "greeting": "Hi, I'm Murat",
+        "description": "I am a Frontend Developer"
+      }
+    }
+  }

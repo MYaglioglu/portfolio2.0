@@ -1,0 +1,20 @@
+{
+    "navbar": {
+      "about": "About",
+      "work": "Work",
+      "contact": "Contact",
+      "technologies": "Technologies",
+      "experiences": "Experiences",
+      "testimonials": "Testimonials",
+      "projects": "Projects"
+    },
+    "services": {
+      "webDeveloper": "Web Developer",
+      "angularDeveloper": "Angular Developer",
+      "frontendDeveloper": "Frontend Developer",
+      "reactDeveloper": "React Developer"
+    },
+    "introduction": "Introduction",
+    "overview": "Overview",
+    "greeting": "Hi, I'm Murat. I'm a frontend developer with a passion for creating web applications."
+  }

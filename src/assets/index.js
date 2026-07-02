@@ -27,6 +27,9 @@ import tripguide from "./tripguide.png";
 import portfolio1 from "./portfolio1.jpg";
 import portfolio2 from "./portfolio2.jpg";
 import portfolio3 from "./portfolio3.jpg";
+import deFlag from "./deFlag.png";
+import enFlag from "./enFlag.png";
+import logoMurat from "./logo.png";
 
 export {
   logo,
@@ -56,4 +59,7 @@ export {
   portfolio1,
   portfolio2,
   portfolio3,
+  deFlag,
+  enFlag,
+  logoMurat,
 };

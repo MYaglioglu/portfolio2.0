@@ -1,0 +1,20 @@
+{
+  "navbar": {
+    "about": "Über mich",
+    "work": "Arbeit",
+    "contact": "Kontakt",
+    "technologies": "Technologien",
+    "experiences": "Erfahrungen",
+    "testimonials": "Referenzen",
+    "projects": "Projekte"
+  },
+  "services": {
+    "webDeveloper": "Webentwickler",
+    "angularDeveloper": "Angular-Entwickler",
+    "frontendDeveloper": "Frontend-Entwickler",
+    "reactDeveloper": "React-Entwickler"
+  },
+  "introduction": "Einleitung",
+  "overview": "Überblick",
+  "greeting": "Hallo, ich bin Murat. Ich bin ein Frontend-Entwickler mit einer Leidenschaft für die Erstellung von Webanwendungen."
+}
